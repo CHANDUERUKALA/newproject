@@ -1,0 +1,12 @@
+name="Jhon Snow"
+print(name +"is king in the North")
+print(name.lower())
+print(name.upper())
+print(name.islower())
+print(name.isupper())
+print(name.upper().isupper())
+print(len(name))
+print(name[0])
+print(name[1:3])
+print(name.index("Jhon"))
+print(name.replace("Snow","Targareyn"))
